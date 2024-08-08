@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/K-Nishant-18/profile-assets/raw/main/Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png" alt="Profile Banner" style="width: 100%; height: auto;" />
-</p>
+![Profile Banner](https://github.com/K-Nishant-18/profile-assets/raw/main/Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.gif)
+
 
 
 <h1 align="center">Hi there, I'm Kumar Nishant 👋</h1>
