@@ -1,58 +1,67 @@
-# 💻 Kumar Nishant - Full-Stack Developer
+<h1 align="center">
+  <img src="https://github.com/K-Nishant-18/K-Nishant-18/blob/main/assets/profile-banner.png" alt="Profile Banner" />
+</h1>
 
-![Profile Banner](https://imgur.com/yourbannerimage) <!-- Add a banner image link here -->
+<h1 align="center">Hi there, I'm Kumar Nishant 👋</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Lifelong Learner</h3>
 
-## 👋 Welcome to My GitHub Profile!
-
-Aspiring Full Stack Developer with a passion for crafting visually appealing and user-friendly web applications. I specialize in Java, React.js, and front-end technologies, with a keen interest in the latest web development trends.
-
-### 🌟 Skills
-
-- **Programming Languages**:  
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-
-- **Frameworks**:  
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-- **Design**:  
-  ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%2300D1B2.svg?style=for-the-badge&logo=responsive-web-design&logoColor=white)  
-  ![UI/UX](https://img.shields.io/badge/UI%2FUX-%23F7DF1E.svg?style=for-the-badge&logo=user-experience-design&logoColor=black)
-
-- **Version Control**:  
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### 🛠️ Projects
-
-- **[E-commerce Website](https://github.com/yourusername/ecommerce-project)**  
-  A responsive e-commerce platform with a user-friendly interface. Built using React.js and Bootstrap, it integrates payment gateways and product management features for a seamless user experience.
-
-- **[Portfolio Website](https://github.com/yourusername/portfolio-project)**  
-  A personal portfolio showcasing my skills, projects, and contact information. Implemented with HTML5, CSS3, and JavaScript, featuring a responsive design for optimal viewing across devices.
-
-### 📜 Certifications
-
-- **React.js Certification**  
-  Gained hands-on experience in building single-page applications and understanding advanced React concepts.
-
-- **Java Certification**  
-  Solidified my understanding of OOP concepts and the Collection Framework.
-
-### 🌍 Let's Connect
-
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Connect with me](https://www.linkedin.com/in/yourusername/)
-- ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white) [Follow me](https://twitter.com/yourusername)
-- 📧 [me.knishant@gmail.com](mailto:me.knishant@gmail.com)
-
-### 📈 GitHub Stats
-
-![Kumar Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Crafting+Beautiful+Web+Experiences;Java+%7C+React.js+%7C+SQL+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+### 👨‍💻 About Me
+
+- 💻 **Full-Stack Developer:** Passionate about building visually appealing and user-friendly web applications.
+- 🌱 **Learning:** Continuously exploring the latest trends in web development.
+- 🎯 **Focus:** Specializing in Java, React.js, and front-end technologies.
+
+---
+
+### 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,bootstrap,git,github,postgres" alt="Tech Stack" />
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=K-Nishant-18&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=K-Nishant-18&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Nishant-18&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 💼 Projects
+
+- **[E-commerce Website](https://github.com/K-Nishant-18/ecommerce-project):** A responsive e-commerce platform built with React.js and Bootstrap.
+- **[Portfolio Website](https://github.com/K-Nishant-18/portfolio-project):** My personal portfolio showcasing my skills and projects, designed with HTML5, CSS3, and JavaScript.
+- **[Blog Platform](https://github.com/K-Nishant-18/blog-platform):** A blog platform with features like image banners, customizable themes, and user authentication, developed using Django.
+
+
+### 🎓 Certifications
+
+- **React.js Certification:** Gained hands-on experience in building SPAs and understanding advanced React concepts.
+- **Java Certification:** Solidified my understanding of OOP concepts and the Collection Framework.
+
+---
+
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/K-Nishant-18/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/K-Nishant-18"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:me.knishant@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+
+
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=K-Nishant-18.K-Nishant-18)
