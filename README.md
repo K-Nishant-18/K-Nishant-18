@@ -30,12 +30,12 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K-Nishant-18&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=K-Nishant-18&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Nishant-18&layout=compact&theme=radical" alt="Top Languages" />
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=K-Nishant-18&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=K-Nishant-18&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </div>
 </div>
 
----
 
 ### 💼 Projects
 
