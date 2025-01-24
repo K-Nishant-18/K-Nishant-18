@@ -4,8 +4,9 @@
 <h3 align="center">Full-Stack Developer | Java Spring Boot & React.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Java+Spring+Boot+%7C+React.js+%7C+MySQL+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Java+%7C+Spring+Boot+%7C+React.js+%7C+MySQL;Innovating+Tech+Solutions+With+Passion" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -64,18 +65,13 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K-Nishant-18&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" style="margin: 0 10px; height: 150px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=K-Nishant-18&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="margin: 0 10px; height: 150px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=K-Nishant-18&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" style="margin: 0 10px; height: 150px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=K-Nishant-18&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="margin: 0 10px; height: 150px;" />
   <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-Nishant-18&theme=radical" alt="Profile Details" style="margin: 50px; height: 233px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-Nishant-18&theme=github_dark" alt="Profile Details" style="margin: 50px; height: 233px;" />
 </div>
 </div>
 
-
-
-
-
----
 
 ### 💼 Featured Projects
 
