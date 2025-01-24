@@ -1,7 +1,7 @@
 ![Profile Banner](https://github.com/K-Nishant-18/profile-assets/raw/main/Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.gif)
 
 <h1 align="center">Hi there, I'm Kumar Nishant 👋</h1>
-<h3 align="center">Full-Stack Developer | Java Spring Boot & React.js Expert</h3>
+<h3 align="center">Full-Stack Developer | Java Spring Boot & React.js</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Java+Spring+Boot+%7C+React.js+%7C+MySQL+Expert" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=K-Nishant-18e&label=PROFILE+VIEWS)
 - 🎓 CS Engineering Student at JIS College of Engineering (2022-2026)
 - 💻 Full-Stack Developer focusing on Java Spring Boot & React.js
-- 🔒 Specialized in secure web applications with JWT & Spring Security
+- 🔒 Building secure web applications with JWT & Spring Security
 - 🌱 Passionate about creating high-performance, user-friendly solutions
 
 ---
