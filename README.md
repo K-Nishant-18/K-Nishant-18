@@ -1,4 +1,11 @@
+<!--
 ![Profile Banner](https://github.com/K-Nishant-18/profile-assets/raw/main/Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.gif)
+-->
+<p align="center">
+  <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/GitHub_Animated_Logo.gif?raw=true" alt="GitHub Animated Logo" height="200" />
+</p>
+
+
 
 <h1 align="center">Hi there, I'm Kumar Nishant 👋</h1>
 <h3 align="center">Full-Stack Developer | Java Spring Boot & React.js</h3>
@@ -18,6 +25,10 @@
 - 🌱 Passionate about creating high-performance, user-friendly solutions
 
 ---
+
+
+
+
 
 ### 🚀 Tech Stack
 
