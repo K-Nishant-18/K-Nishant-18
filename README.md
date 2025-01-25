@@ -89,7 +89,7 @@
 
 **The Cultural Circuit** - E-commerce platform for cultural heritage products built with Java Spring Boot, React.js, and JWT authentication.
 
-**Alumni Connect** - Student-alumni networking platform featuring secure authentication and real-time messaging using Spring MVC and React.js.
+**[Alumni Connect- Collegia](https://github.com/K-Nishant-18/collegia)** - Student-alumni networking platform featuring secure authentication and real-time messaging using Spring MVC and React.js.
 
 ---
 
