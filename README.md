@@ -11,7 +11,7 @@
 <h3 align="center">Full-Stack Developer | Java Spring Boot & React.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Java+%7C+Spring+Boot+%7C+React.js+%7C+MySQL;Innovating+Tech+Solutions+With+Passion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2b83e7&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Java+%7C+Spring+Boot+%7C+React.js+%7C+MySQL;Innovating+Tech+Solutions+With+Passion" alt="Typing SVG" />
 </p>
 
 
