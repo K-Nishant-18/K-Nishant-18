@@ -107,9 +107,9 @@
 
 ### 💼 Featured Projects
 
-**The Cultural Circuit** - E-commerce platform for cultural heritage products built with Java Spring Boot, React.js, and JWT authentication.
+**[The Cultural Circuit](https://github.com/K-Nishant-18/cultural-circuit)** - The Cultural Circuit is a vibrant web-based platform dedicated to preserving, promoting, and celebrating India's cultural heritage worldwide.
 
-**[Alumni Connect- Collegia](https://github.com/K-Nishant-18/collegia)** - Student-alumni networking platform featuring secure authentication and real-time messaging using Spring MVC and React.js.
+**[Alumni Connect- Collegia](https://github.com/K-Nishant-18/collegia)** - Collegia is an all-in-one platform designed to enhance the overall student experience in colleges by integrating several essential features.
 
 ---
 
