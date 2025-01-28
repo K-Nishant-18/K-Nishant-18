@@ -17,17 +17,28 @@
 
 ---
 
-### 👨‍💻 About Me
-![](https://komarev.com/ghpvc/?username=K-Nishant-18e&label=PROFILE+VIEWS)
-- 🎓 CS Engineering Student at JIS College of Engineering (2022-2026)
-- 💻 Full-Stack Developer focusing on Java Spring Boot & React.js
-- 🔒 Building secure web applications with JWT & Spring Security
-- 🌱 Passionate about creating high-performance, user-friendly solutions
+### 👨‍💻 About Me  
+![Profile Views](https://komarev.com/ghpvc/?username=K-Nishant-18&label=PROFILE+VIEWS)
+
+<table>
+  <tr>
+    <!-- Left Section -->
+    <td>
+      <ul>
+         <li>🎓 <strong>CS Engineering Student</strong> at JIS College of Engineering (2022-2026)</li>
+        <li>💻 <strong>Full-Stack Developer</strong> focusing on <strong>Java Spring Boot</strong> & <strong>React.js</strong></li>
+        <li>🔒 Dedicated to building <strong>secure web applications</strong> with <strong>JWT</strong> & <strong>Spring Security</strong></li>
+        <li>🌱 Passionate about creating <strong>high-performance, user-friendly solutions</strong></li>
+      </ul>
+    </td>
+    <!-- Right Section -->
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K-Nishant-18&theme=transparent&border_color=1E90FF&bg_color=00000000&title_color=1E90FF&text_color=FFFFFF" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
-
-
-
 
 
 ### 🚀 Tech Stack
@@ -76,15 +87,23 @@
 ### 📊 GitHub Analytics
 
 ![](https://komarev.com/ghpvc/?username=K-Nishant-18e&label=PROFILE+VIEWS)
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K-Nishant-18&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" style="margin: 0 10px; height: 150px;" />
- <img src="https://github-readme-streak-stats.herokuapp.com?user=K-Nishant-18&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="margin: 0 10px; height: 150px;"/>
+  
+  <!-- Stats Card (without "Stats" title) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e&hide_title=true" alt="GitHub Stats" style="margin: 50px; height: 233px;" />
 
-  <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-Nishant-18&theme=github_dark" alt="Profile Details" style="margin: 50px; height: 233px;" />
+  <!-- Streak Stats Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e" alt="Streak Stats" style="margin: 50px; height: 233px;" />
+
+<!-- Profile Details Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e" alt="Profile Details" style="margin: 50px; height: 233px;" />
+
 </div>
-</div>
+
+---
+
+
+
 
 ### 💼 Featured Projects
 
