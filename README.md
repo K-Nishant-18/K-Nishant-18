@@ -18,7 +18,7 @@
 ---
 
 ### 👨‍💻 About Me  
-![Profile Views](https://komarev.com/ghpvc/?username=K-Nishant-18&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=K-Nishant-18e&label=PROFILE+VIEWS)
 
 <table>
   <tr>
