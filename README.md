@@ -111,17 +111,40 @@
 
 ![](https://komarev.com/ghpvc/?username=K-Nishant-18e&label=PROFILE+VIEWS)
 <div align="center">
-  
-  <!-- Stats Card (without "Stats" title) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e&hide_title=true" alt="GitHub Stats" style="margin: 50px; height: 233px;" />
 
-  <!-- Streak Stats Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e" alt="Streak Stats" style="margin: 50px; height: 233px;" />
+<div align="center">
 
-<!-- Profile Details Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e" alt="Profile Details" style="margin: 50px; height: 233px;" />
+<table>
+  <tr>
+    <td align="center"><strong>GitHub Stats</strong></td>
+    <td align="center"><strong>Streak Stats</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e&hide_title=true" alt="GitHub Stats" width="400" height="200"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e" alt="Streak Stats" width="400" height="200"/>
+    </td>
+  </tr>
+</table>
+
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><strong>Profile Details</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e" alt="Profile Details" width="825" height="200"/>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
@@ -130,39 +153,73 @@
 
 ### 💼 Featured Projects
 
-**[StudentHub- Collegia](https://github.com/K-Nishant-18/collegia)** - Collegia is an all-in-one platform designed to enhance the overall student experience in colleges by integrating several essential features.
+<div align="center">
 
-**[The Cultural Circuit](https://github.com/K-Nishant-18/cultural-circuit)** - The Cultural Circuit is a vibrant web-based platform dedicated to preserving, promoting, and celebrating India's cultural heritage worldwide.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/K-Nishant-18/collegia">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=K-Nishant-18&repo=collegia&theme=transparent&border_color=58A6FF&title_color=58A6FF&text_color=9e9e9e" alt="Collegia GitHub Repo"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/K-Nishant-18/cultural-circuit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=K-Nishant-18&repo=cultural-circuit&theme=transparent&border_color=58A6FF&title_color=58A6FF&text_color=9e9e9e" alt="Cultural Circuit GitHub Repo"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 
 ---
 
 
-### 🌍 Let's Connect
+### 🌍 Let's Connect  
+
+<div align="center">
+
+<a href="https://linkedin.com/in/kumar-nishant-275402279" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://instagram.com/me.nishant_18" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://medium.com/@me.knishant" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+
+<a href="mailto:me.knishant@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://www.leetcode.com/k-nishant-18" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/k_nishant_18" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+
+
+</div>
+
+
+
+
 
 <p align="center">
-  <a href="https://linkedin.com/in/kumar-nishant-275402279" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar-nishant-275402279" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/me.nishant_18" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me.knishant_18" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@me.knishant" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@me.knishant" height="30" width="40" />
-  </a>
-  <a href="mailto:me.knishant@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="me.knishant@gmail.com" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/k-nishant-18" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k_nishant_18" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/k_nishant_18" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="k_nishant_18" height="30" width="40" />
-  </a>
-  
-  
+  <br><br><br> <!-- Add space above -->
+  <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/wave.png" alt="Wave Image" width="100%" />
 </p>
+
+
+
+
 
 
 <!-- 
