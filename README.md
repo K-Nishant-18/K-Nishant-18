@@ -22,6 +22,10 @@
 
 <table>
   <tr>
+    <td align="center"><strong>Something About Me ❤️</strong></td>
+    <td align="center"><strong>Languages</strong></td>
+  </tr>
+  <tr>
     <!-- Left Section -->
     <td>
       <ul>
@@ -76,7 +80,9 @@
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB"/>
     </td>
+
   </tr>
 </table>
 
