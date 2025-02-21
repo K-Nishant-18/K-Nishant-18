@@ -107,9 +107,11 @@
 
 ### 💼 Featured Projects
 
+**[StudentHub- Collegia](https://github.com/K-Nishant-18/collegia)** - Collegia is an all-in-one platform designed to enhance the overall student experience in colleges by integrating several essential features.
+
 **[The Cultural Circuit](https://github.com/K-Nishant-18/cultural-circuit)** - The Cultural Circuit is a vibrant web-based platform dedicated to preserving, promoting, and celebrating India's cultural heritage worldwide.
 
-**[Alumni Connect- Collegia](https://github.com/K-Nishant-18/collegia)** - Collegia is an all-in-one platform designed to enhance the overall student experience in colleges by integrating several essential features.
+
 
 ---
 
