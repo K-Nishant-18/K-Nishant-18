@@ -89,8 +89,8 @@
 <table>
   <tr>
     <td align="center"><strong>Version Control & CI/CD</strong></td>
-    <td align="center"><strong>Cloud & Deployment</strong></td>
     <td align="center"><strong>Tools & IDEs</strong></td>
+    <td align="center"><strong>Cloud & Deployment</strong></td>
   </tr>
   <tr>
     <td align="center">
