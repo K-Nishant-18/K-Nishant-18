@@ -2,7 +2,7 @@
 ![Profile Banner](https://github.com/K-Nishant-18/profile-assets/raw/main/Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.gif)
 -->
 <p align="center">
-  <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/GitHub-Animated-Logo.gif?raw=true" alt="GitHub Animated Logo" height="180" />
+  <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/GitHub-Animated-Logo.gif?raw=true" alt="GitHub Animated Logo" height="90" />
 </p>
 
 
