@@ -104,7 +104,7 @@
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="50" height="50" alt="Vercel"/>
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="50" height="50" alt="Heroku"/>
+      <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="50" height="50" alt="Render"/>
     </td>
   </tr>
 </table>
