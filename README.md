@@ -45,63 +45,97 @@
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center"><strong>Languages</strong></td>
-    <td align="center"><strong>Backend</strong></td>
-    <td align="center"><strong>Databases & Caching</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="SQL"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" alt="Spring Boot"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="45" height="45" alt="Hibernate"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45" alt="Redis"/>
-    </td>
-  </tr>
+<tr>
+<td align="center"><strong>Languages</strong></td>
+<td align="center"><strong>Backend</strong></td>
+<td align="center"><strong>DevOps & Cloud</strong></td>
+<td align="center"><strong>Databases & Caching</strong></td>
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" alt="Bash"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" alt="Spring Boot"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="48" alt="Swagger"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" alt="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="48" alt="GitHub Actions"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" alt="AWS"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="48" alt="Hibernate"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" alt="Redis"/>
+
+</td>
+
+</tr>
+
 </table>
 
+<br>
+
 <table>
-  <tr>
-    <td align="center"><strong>DevOps & Cloud</strong></td>
-    <td align="center"><strong>Monitoring</strong></td>
-    <td align="center"><strong>Tools & IDEs</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="GitHub Actions"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="45" height="45" alt="Prometheus"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="45" height="45" alt="Grafana"/>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45" alt="Git"/>
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" height="45" alt="GitHub"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-    </td>
-  </tr>
+
+<tr>
+<td align="center"><strong>Testing</strong></td>
+<td align="center"><strong>Monitoring</strong></td>
+<td align="center"><strong>Tools & IDEs</strong></td>
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="48" alt="JUnit"/>
+<img src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/org/mockito/logo.png" width="90" alt="Mockito"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="48" alt="Prometheus"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="48" alt="Grafana"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="42" alt="IntelliJ IDEA"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" alt="VS Code"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="42" alt="Git"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="42" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" alt="Linux"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="42" alt="Maven"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" alt="Postman"/>
+
+</td>
+
+</tr>
+
 </table>
 
 </div>
-
----
 
 ### 📊 GitHub Analytics
 
