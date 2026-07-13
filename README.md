@@ -12,12 +12,13 @@
 <p align="center">
   <a href="mailto:kumar.nishant.eng@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/kumar-nishant-275402279" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="tel:+918986412823"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
+  <a href="https://your-portfolio-url.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="tel:+918986412823"><img src="https://img.shields.io/badge/Call-0F9D58?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### ⭕ About Me
 ![](https://komarev.com/ghpvc/?username=K-Nishant-18e&label=PROFILE+VIEWS&color=2b83e7&style=flat)
 
 <table>
@@ -28,13 +29,12 @@
   <tr>
     <td>
       <ul>
-        <li>📍 Based in <strong>Bhagalpur, Bihar, India</strong></li>
-        <li>🎓 <strong>CS Engineering Student</strong> at JIS College of Engineering (2022 – 2026)</li>
-        <li>⚙️ <strong>Backend Developer</strong> specializing in <strong>Java</strong> &amp; <strong>Spring Boot</strong></li>
-        <li>🐳 Hands-on with <strong>DevOps</strong> — Docker, GitHub Actions CI/CD, and AWS deployments</li>
-        <li>🔒 Focused on building <strong>secure REST APIs</strong> with <strong>Spring Security</strong> &amp; <strong>JWT</strong></li>
-        <li>📈 Comfortable owning a module end-to-end — from code, to container, to cloud</li>
-        <li>🧩 Solved <strong>200+ DSA problems</strong> and led teams across multiple hackathons</li>
+        <li>🔷 Based in <strong>Bhagalpur, Bihar, India</strong></li>
+        <li>🔷 <strong>CS Engineering Student</strong> at JIS College of Engineering (2022 – 2026)</li>
+        <li>🔷 <strong>Backend Developer</strong> specializing in <strong>Java</strong> &amp; <strong>Spring Boot</strong></li>
+        <li>🔷 Hands-on with <strong>DevOps</strong> — Docker, GitHub Actions CI/CD, and AWS deployments</li>
+        <li>🔷 Focused on building <strong>secure REST APIs</strong> with <strong>Spring Security</strong> &amp; <strong>JWT</strong></li>
+        <li>🔷 Comfortable owning a module end-to-end — from code, to container, to cloud</li>
       </ul>
     </td>
     <td>
@@ -45,7 +45,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## ⭕ Tech Stack
 
 <div align="center">
 
@@ -137,7 +137,7 @@
 
 </div>
 
-### 📊 GitHub Analytics
+### ⭕ GitHub Analytics
 
 <div align="center">
 
@@ -171,7 +171,7 @@
 
 ---
 
-### 🧠 DSA & Competitive Coding
+### ⭕ DSA & Competitive Coding
 
 <p align="center">
   <a href="https://www.leetcode.com/k-nishant-18" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
@@ -181,7 +181,7 @@
 
 ---
 
-### 💼 Featured Projects
+### ⭕ Featured Projects
 
 <div align="center">
 
@@ -193,7 +193,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/K-Nishant-18/cultural-circuit">
+      <a href="[https://github.com/K-Nishant-18/cultural-circuit](https://github.com/K-Nishant-18/Staylo)">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=K-Nishant-18&repo=cultural-circuit&theme=transparent&border_color=58A6FF&title_color=58A6FF&text_color=9e9e9e" alt="Cultural Circuit GitHub Repo"/>
       </a>
     </td>
@@ -204,7 +204,7 @@
 
 ---
 
-### 🌍 Let's Connect
+<h3 align="center">⭕ Let's Connect</h3>
 
 <div align="center">
 
@@ -220,19 +220,22 @@
 <a href="mailto:kumar.nishant.eng@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://www.leetcode.com/k-nishant-18" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/k_nishant_18" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-</a>
+
 
 </div>
 
+---
+
+
 <p align="center">
-  <br><br>
-  <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/wave.png" alt="Wave Image" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Thanks%20for%20Visiting!&fontSize=60&color=0:2563EB,100:38BDF8&fontColor=ffffff"/>
+
 </p>
+<p align="center">
+  <i>⭐ If you like my work, don't forget to star my repositories!</i>
+</p>
+
 
 <!--
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=K-Nishant-18.K-Nishant-18)
