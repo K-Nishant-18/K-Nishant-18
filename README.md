@@ -1,41 +1,42 @@
-<!--
-![Profile Banner](https://github.com/K-Nishant-18/profile-assets/raw/main/Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.gif)
--->
 <p align="center">
   <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/GitHub-Animated-Logo.gif?raw=true" alt="GitHub Animated Logo" style="height:120px;" />
 </p>
 
-
-
 <h1 align="center">Hi there, I'm Kumar Nishant 👋</h1>
-<h3 align="center">Full-Stack Developer | Java Spring Boot & React.js</h3>
+<h3 align="center">Backend Developer | Java & Spring Boot | DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2b83e7&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Java+%7C+Spring+Boot+%7C+React.js+%7C+MySQL;Innovating+Tech+Solutions+With+Passion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2b83e7&center=true&vCenter=true&width=800&lines=Building+Secure%2C+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+MySQL;Docker+%7C+CI%2FCD+%7C+AWS+%7C+Monitoring;200%2B+DSA+Problems+Solved+%7C+Hackathon+Team+Lead" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="mailto:kumar.nishant.eng@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/kumar-nishant-275402279" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="tel:+918986412823"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
+</p>
 
 ---
 
-### 👨‍💻 About Me  
-![](https://komarev.com/ghpvc/?username=K-Nishant-18e&label=PROFILE+VIEWS)
+### 👨‍💻 About Me
+![](https://komarev.com/ghpvc/?username=K-Nishant-18e&label=PROFILE+VIEWS&color=2b83e7&style=flat)
 
 <table>
   <tr>
-    <td align="center"><strong>Something About Me ❤️</strong></td>
-    <td align="center"><strong>Languages</strong></td>
+    <td align="center"><strong>A Little About Me ❤️</strong></td>
+    <td align="center"><strong>Most Used Languages</strong></td>
   </tr>
   <tr>
-    <!-- Left Section -->
     <td>
       <ul>
-         <li>🎓 <strong>CS Engineering Student</strong> at JIS College of Engineering (2022-2026)</li>
-        <li>💻 <strong>Full-Stack Developer</strong> focusing on <strong>Java Spring Boot</strong> & <strong>React.js</strong></li>
-        <li>🔒 Dedicated to building <strong>secure web applications</strong> with <strong>JWT</strong> & <strong>Spring Security</strong></li>
-        <li>🌱 Passionate about creating <strong>high-performance, user-friendly solutions</strong></li>
+        <li>📍 Based in <strong>Bhagalpur, Bihar, India</strong></li>
+        <li>🎓 <strong>CS Engineering Student</strong> at JIS College of Engineering (2022 – 2026)</li>
+        <li>⚙️ <strong>Backend Developer</strong> specializing in <strong>Java</strong> &amp; <strong>Spring Boot</strong></li>
+        <li>🐳 Hands-on with <strong>DevOps</strong> — Docker, GitHub Actions CI/CD, and AWS deployments</li>
+        <li>🔒 Focused on building <strong>secure REST APIs</strong> with <strong>Spring Security</strong> &amp; <strong>JWT</strong></li>
+        <li>📈 Comfortable owning a module end-to-end — from code, to container, to cloud</li>
+        <li>🧩 Solved <strong>200+ DSA problems</strong> and led teams across multiple hackathons</li>
       </ul>
     </td>
-    <!-- Right Section -->
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K-Nishant-18&theme=transparent&border_color=1E90FF&bg_color=00000000&title_color=1E90FF&text_color=FFFFFF" alt="Most Used Languages" />
     </td>
@@ -44,67 +45,56 @@
 
 ---
 
-
-
-
-
 ### 🚀 Tech Stack
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center"><strong>Programming Languages</strong></td>
-    <td align="center"><strong>Frontend Development</strong></td>
-    <td align="center"><strong>Backend Development</strong></td>
-    <td align="center"><strong>Databases</strong></td>
+    <td align="center"><strong>Languages</strong></td>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Databases & Caching</strong></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C"/>
-   <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React.js"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/>
-       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Tailwind CSS"/>
-      <img src="https://vitejs.dev/logo.svg" width="50" height="50" alt="Vite"/>
-  </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50" alt="Spring Boot"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker"/>
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="SQL"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" alt="Spring Boot"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="45" height="45" alt="Hibernate"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
     </td>
-
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45" alt="Redis"/>
+    </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td align="center"><strong>Version Control & CI/CD</strong></td>
+    <td align="center"><strong>DevOps & Cloud</strong></td>
+    <td align="center"><strong>Monitoring</strong></td>
     <td align="center"><strong>Tools & IDEs</strong></td>
-    <td align="center"><strong>Cloud & Deployment</strong></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git"/>
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50" alt="GitHub"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="GitHub Actions"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="50" height="50" alt="Notion"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="45" height="45" alt="Prometheus"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="45" height="45" alt="Grafana"/>
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="50" height="50" alt="Vercel"/>
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="50" height="50" alt="Heroku"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45" alt="Git"/>
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" height="45" alt="GitHub"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
     </td>
   </tr>
 </table>
@@ -113,31 +103,24 @@
 
 ---
 
-
 ### 📊 GitHub Analytics
-
-![](https://komarev.com/ghpvc/?username=K-Nishant-18e&label=PROFILE+VIEWS)
-<div align="center">
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center"><strong>GitHub Stats</strong></td>
-    <td align="center"><strong>Streak Stats</strong></td>
+    <td align="center"><strong>Most Productive Time</strong></td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e&hide_title=true" alt="GitHub Stats" width="400" height="200"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e" alt="Streak Stats" width="400" height="200"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e" alt="Productive Time" width="400" height="200"/>
     </td>
   </tr>
 </table>
-
-
-<div align="center">
 
 <table>
   <tr>
@@ -152,11 +135,17 @@
 
 </div>
 
-
 ---
 
+### 🧠 DSA & Competitive Coding
 
+<p align="center">
+  <a href="https://www.leetcode.com/k-nishant-18" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/k_nishant_18" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <img src="https://img.shields.io/badge/DSA%20Problems%20Solved-200%2B-2b83e7?style=for-the-badge" alt="200+ DSA Problems" />
+</p>
 
+---
 
 ### 💼 Featured Projects
 
@@ -179,58 +168,38 @@
 
 </div>
 
-
-
 ---
 
-
-### 🌍 Let's Connect  
+### 🌍 Let's Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/kumar-nishant-275402279" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
 <a href="https://instagram.com/me.nishant_18" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-
 <a href="https://medium.com/@me.knishant" target="_blank">
   <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
-
-<a href="mailto:me.knishant@gmail.com" target="_blank">
+<a href="mailto:kumar.nishant.eng@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
 <a href="https://www.leetcode.com/k-nishant-18" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
-
 <a href="https://auth.geeksforgeeks.org/user/k_nishant_18" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
 </a>
 
-
 </div>
 
-
-
-
-
 <p align="center">
-  <br><br><br> <!-- Add space above -->
+  <br><br>
   <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/wave.png" alt="Wave Image" width="100%" />
 </p>
 
-
-
-
-
-
-<!-- 
-This is a comment that spans multiple lines in Markdown
+<!--
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=K-Nishant-18.K-Nishant-18)
 -->
-
