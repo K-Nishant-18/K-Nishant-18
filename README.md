@@ -189,12 +189,12 @@
   <tr>
     <td align="center">
       <a href="https://github.com/K-Nishant-18/collegia">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=K-Nishant-18&repo=collegia&theme=transparent&border_color=58A6FF&title_color=58A6FF&text_color=9e9e9e" alt="Collegia GitHub Repo"/>
+        <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/CollegiaBanner.png" alt="Collegia GitHub Repo"/>
       </a>
     </td>
     <td align="center">
       <a href="[https://github.com/K-Nishant-18/cultural-circuit](https://github.com/K-Nishant-18/Staylo)">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=K-Nishant-18&repo=cultural-circuit&theme=transparent&border_color=58A6FF&title_color=58A6FF&text_color=9e9e9e" alt="Cultural Circuit GitHub Repo"/>
+        <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/StayloBanner.png" alt="Cultural Circuit GitHub Repo"/>
       </a>
     </td>
   </tr>
