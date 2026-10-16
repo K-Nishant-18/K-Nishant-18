@@ -11,15 +11,14 @@
 
 <p align="center">
   <a href="mailto:kumar.nishant.eng@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
-  <a href="https://linkedin.com/in/kumar-nishant-275402279" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
-  <a href="https://www.pixellalabs.studio" target="_blank"><img src="https://img.shields.io/badge/Visit_%E2%86%92_Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/kumar-nishant-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+  <a href="https://kumar-nishant.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Visit_%E2%86%92_Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
   <a href="https://medium.com/@me.knishant" target="_blank"><img src="https://img.shields.io/badge/Medium-0F172A?style=for-the-badge&logo=medium&logoColor=38BDF8" alt="Medium" /></a>
-  <a href="https://x.com/your-twitter-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-0F172A?style=for-the-badge&logo=x&logoColor=38BDF8" alt="X / Twitter" /></a>
+  <a href="https://x.com/me_nishant_18" target="_blank"><img src="https://img.shields.io/badge/Twitter-0F172A?style=for-the-badge&logo=x&logoColor=38BDF8" alt="X / Twitter" /></a>
 </p>
 
 ---
 
-### ⭕ About Me
 ![](https://komarev.com/ghpvc/?username=K-Nishant-18e&label=PROFILE+VIEWS&color=2b83e7&style=flat)
 
 <table align="center">
@@ -106,7 +105,9 @@
 
 ### ⭕ GitHub Analytics
 
+
 <div align="center">
+
 
 <table>
   <tr>
