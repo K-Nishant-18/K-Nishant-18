@@ -154,7 +154,7 @@
     <td width="50%" valign="top">
       <p align="center">
         <a href="https://github.com/K-Nishant-18/TeamUp">
-          <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/CollegiaBanner.png?raw=true" alt="TeamUp project" width="100%" />
+          <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/TeamUp_Logo.png?raw=true" alt="TeamUp project" width="100%" />
         </a>
       </p>
       <p><sub>Student team formation platform</sub></p>
@@ -164,7 +164,7 @@
     <td width="50%" valign="top">
       <p align="center">
         <a href="https://github.com/K-Nishant-18/MunimJi">
-          <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/StayloBanner.png?raw=true" alt="MunimJi project" width="100%" />
+          <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/MunimJi_Logo.png?raw=true" alt="MunimJi project" width="100%" />
         </a>
       </p>
       <p><sub>Inventory &amp; GST billing for small retailers</sub></p>
