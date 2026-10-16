@@ -17,9 +17,13 @@
   <a href="https://x.com/me_nishant_18" target="_blank"><img src="https://img.shields.io/badge/Twitter-0F172A?style=for-the-badge&logo=x&logoColor=38BDF8" alt="X / Twitter" /></a>
 </p>
 
----
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=K-Nishant-18e&label=PROFILE+VIEWS&color=D47C18&style=flat)
 
-![](https://komarev.com/ghpvc/?username=K-Nishant-18e&label=PROFILE+VIEWS&color=2b83e7&style=flat)
+</div>
+
+---
 
 <table align="center">
   <tr>
@@ -42,7 +46,6 @@
   </tr>
 </table>
 
----
 
 ## ⭕ Tech Stack
 
@@ -189,5 +192,5 @@
 
 
 <!--
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=K-Nishant-18.K-Nishant-18)
+![](https://komarev.com/ghpvc/?username=K-Nishant-18e&label=PROFILE+VIEWS&color=2b83e7&style=flat)
 -->
