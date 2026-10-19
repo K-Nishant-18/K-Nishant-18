@@ -153,7 +153,7 @@
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <a href="https://github.com/K-Nishant-18/TeamUp">
+        <a href="https://github.com/K-Nishant-18/Team-up">
           <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/TeamUp_Logo.png?raw=true" alt="TeamUp project" width="100%" />
         </a>
       </p>
