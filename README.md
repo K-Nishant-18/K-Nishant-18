@@ -147,7 +147,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%"><strong>🤝 <a href="https://github.com/K-Nishant-18/TeamUp">TeamUp</a></strong></td>
+    <td align="center" width="50%"><strong>🤝 <a href="https://github.com/K-Nishant-18/Team-up">TeamUp</a></strong></td>
     <td align="center" width="50%"><strong>🧾 <a href="https://github.com/K-Nishant-18/MunimJi">MunimJi</a></strong></td>
   </tr>
   <tr>
