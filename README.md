@@ -119,10 +119,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e&hide_title=true" alt="GitHub Stats" width="400" height="200"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e&hide_title=true&v=2" alt="GitHub Stats" width="400" height="200"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e" alt="Productive Time" width="400" height="200"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e&v=2" alt="Productive Time" width="400" height="200"/>
     </td>
   </tr>
 </table>
@@ -133,7 +133,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e" alt="Profile Details" width="825" height="200"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-Nishant-18&theme=transparent&border_color=58A6FF&bg_color=00000000&title_color=58A6FF&text_color=9e9e9e&v=2" alt="Profile Details" width="825" height="200"/>
     </td>
   </tr>
 </table>
